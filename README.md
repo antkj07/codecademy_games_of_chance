@@ -1,3 +1,3 @@
 # codecademy_games_of_chance
 
-Technically my first application, every built!!
+This is my first application. I'm incredibly excited and can't wait to build more.
